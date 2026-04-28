@@ -110,12 +110,3 @@ For a fresh archive on a new external drive:
 - R ≥ 4.1 (≥ 4.4 preferred; scripts include a `%||%` polyfill for older).
 - R packages: `lidR` (≥ 4.3), `terra` (≥ 1.9), `sf`.
 
-## Related notes
-
-- `notes/001` — lidR package overview, processing engine, speed levers.
-- `notes/002` — CHM resolution and the fine-then-aggregate pattern.
-- `notes/003` — TP / GP / AP division of labour.
-- `notes/004` — KGML pipeline design and LiDAR feature selection.
-- `notes/009` — DJI Zenmuse L1 vendor LAS quirks.
-- `notes/010` — CHM-mean 10 m product (development-time companion to the
-  product note in `out/lidar/lidar/`).
